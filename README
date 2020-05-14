@@ -1,4 +1,4 @@
-#Table of contents
+ # Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
 
@@ -11,12 +11,12 @@
 
 
 
-##General info
+ ## General info
 Well, what is the Insect Bot. Actually it's not really an insect because it only has four legs, insects does have six of them, right? 
 However, the robot got the name because of his shape with the thin wire legs and the IR sensor rosed up.
 
 
 
 
-##Setup
-###Step 1: Servos Building the Body
+ ## Setup
+ ### Step 1: Servos Building the Body
