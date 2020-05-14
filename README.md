@@ -1,7 +1,7 @@
  # Insect Bot
  * [Basic Info](#basic-info)
 * [Assembling](#assembling)
-* [Setup](#setup)
+
 
 # Basic Info
 Well, what is the Insect Bot. Actually it's not really an insect because it only has four legs, insects does have six of them, right? However, the robot got the name because of his shape with the thin wire legs and the IR sensor rosed up.
