@@ -57,7 +57,7 @@ the ground pin is supplied to the ground pin of the Arduino
 
 ## Programming the Insect Bot
 
-When you are done with the construction. Upload the code in the attachments to your arduino and have with your new robot.
+When you are done with the construction. Upload the code F8E2NB5ICE1TNSR.ino in the attachments to your arduino and have with your new robot.
 
 
 
