@@ -1,4 +1,4 @@
- # Insect Bot
+# Insect Bot
  * [Basic Info](#basic-info)
 * [Assembling](#assembling)
 
