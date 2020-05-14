@@ -10,7 +10,7 @@ Well, what is the Insect Bot. Actually it's not really an insect because it only
 That robot already has a long history. first I built one with standard servos and an Arduino UNO but soon I wanted it smaller and even more easy to build. After a couple of attempts with different designs this one is the final one.
 
 ## Preview
-![He's walkin](https://imgur.com/gallery/8ukUjxz)
+![He's walkin](https://cdn.instructables.com/FG4/Y3BR/HOUG0BDX/FG4Y3BRHOUG0BDX.LARGE.jpg?auto=webp&fit=bounds)
 
 
 ## Programming the Insect Bot
